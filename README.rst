@@ -1,4 +1,4 @@
-Small Word Security Dictionary
+InfoSec Dictionary
 ====================
 
 Confused by all the big words and strange acronyms security people throw around? A common comment I get from friends and family is that complex security topics give them headaches. They want to know in simple terms how to stay safe in a connected world. Folks like me and my peers have chosen to make a profession out of hacking and defending. I've been doing this for the better part of two decades, so I would hope I have a high degree of knowledge in the field. Others have chosen different paths - paths where I would be lost. I'm just about the last person you would want to perform a root canal on you, or to rebuild your carburetor (well ... I might be able to figure out the latter, but you certainly don't want me working on your teeth!). Here is a dictionary of security and technology terms in plain English, for those that don't live and breathe security. If you have additions or corrections, by all means make a pull request.
